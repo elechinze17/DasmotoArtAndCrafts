@@ -1,0 +1,23 @@
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(180, 174, 127);
+}
+
+img{
+    height: 100px;
+    width: 200px
+}
+
+.bg{
+    background-image: url("../resources/pattern.jpeg");
+}
+
+h2{
+    background-color: mediumturquoise;
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+}
